@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="24345edc-b4d3-4447-b531-001a8056a679" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/src/javacode/main/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/test/FizzBuzzTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/test/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/test/FizzBuzzTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/src/javacode/test/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,8 +72,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/javacode/main/Main.java" />
-        <option value="$PROJECT_DIR$/src/javacode/test/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/src/javacode/main/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/javacode/test/FizzBuzzTest.java" />
       </list>
     </option>
   </component>
@@ -153,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedANumberItReturnsThatNumber">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacode.main.Main" />
       <module name="Project1" />
@@ -191,7 +191,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FizzBuzzTest.whenFizzBuzzIsPassedANumberItReturnsThatNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.whenFizzBuzzIsPassedAOneItReturnsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project1" />
       <extension name="coverage">
         <pattern>
@@ -203,7 +203,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="javacode.test" />
       <option name="MAIN_CLASS_NAME" value="javacode.test.FizzBuzzTest" />
-      <option name="METHOD_NAME" value="whenFizzBuzzIsPassedANumberItReturnsThatNumber" />
+      <option name="METHOD_NAME" value="whenFizzBuzzIsPassedAOneItReturnsOne" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -255,11 +255,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.FizzBuzzTest" />
-      <item itemvalue="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedANumberItReturnsThatNumber" />
+      <item itemvalue="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedAOneItReturnsOne" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedANumberItReturnsThatNumber" />
+        <item itemvalue="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedAOneItReturnsOne" />
         <item itemvalue="JUnit.FizzBuzzTest" />
         <item itemvalue="Application.Main" />
       </list>
@@ -282,10 +282,15 @@
     <history-entry file="FizzBuzzTest - 2018.06.16 at 17h 38m 47s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzBuzzTest_whenFizzBuzzIsPassedANumberItReturnsThatNumber - 2018.06.16 at 17h 40m 07s.xml">
+      <configuration name="FizzBuzzTest.whenFizzBuzzIsPassedANumberItReturnsThatNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest_whenFizzBuzzIsPassedAOneItReturnsOne - 2018.06.16 at 17h 43m 36s.xml">
+      <configuration name="FizzBuzzTest.whenFizzBuzzIsPassedAOneItReturnsOne" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1298" height="738" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -296,11 +301,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329806" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.07832423" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4744268" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15139116" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15139116" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -381,7 +386,7 @@
     <entry file="file://$PROJECT_DIR$/src/javacode/test/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
