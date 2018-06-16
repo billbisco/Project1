@@ -7,7 +7,7 @@ import org.junit.Test;
 public class FizzBuzzTest {
 
     @Test
-    public void whenFizzBuzzIsPassedANumberItReturnsThatNumber() {
+    public void whenFizzBuzzIsPassedAOneItReturnsOne() {
         FizzBuzz fizzBuzz = new FizzBuzz();
         Assert.assertEquals("1", fizzBuzz.fizz(1));
 
