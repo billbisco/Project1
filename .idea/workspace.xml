@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="24345edc-b4d3-4447-b531-001a8056a679" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/main/FizzBuzz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/test/FizzBuzzTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzzTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javacode/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state relative-caret-position="217">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="525">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -90,8 +84,8 @@
         <option value="$PROJECT_DIR$/src/javacode/exercises/test/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/main/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzzTest.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/javacode/Main.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzz.java" />
       </list>
     </option>
   </component>
@@ -330,7 +324,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1234" height="720" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -342,10 +335,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329806" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29319373" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21116929" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4712042" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24700855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24700855" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32994923" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -612,20 +605,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="217">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
