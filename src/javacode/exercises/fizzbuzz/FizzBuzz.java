@@ -1,4 +1,4 @@
-package javacode.exercises.main;
+package javacode.exercises.fizzbuzz;
 
 public class FizzBuzz {
     public String input(Integer inputNumber) {

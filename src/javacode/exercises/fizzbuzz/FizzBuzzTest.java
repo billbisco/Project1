@@ -1,6 +1,6 @@
-package javacode.exercises.test;
+package javacode.exercises.fizzbuzz;
 
-import javacode.exercises.main.FizzBuzz;
+import javacode.exercises.fizzbuzz.FizzBuzz;
 import org.junit.Assert;
 import org.junit.Test;
 
