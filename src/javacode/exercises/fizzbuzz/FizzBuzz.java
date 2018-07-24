@@ -1,25 +1,26 @@
 package javacode.exercises.fizzbuzz;
 
 public class FizzBuzz {
-    public String input(int inputNumber) {
-        if(inputNumber % 15 == 0)
+    public String input(Integer inputNum) {
+        String value;
+        if(inputNum % 15 == 0)
             return fizzbuzz();
-        if(inputNumber % 3 == 0)
+        if(inputNum % 3 == 0)
             return fizz();
-        if(inputNumber % 5 == 0)
+        if(inputNum % 5 == 0)
             return buzz();
         else
-            return inputNumber(inputNumber);
+            return inputNumber(inputNum);
     }
-
     public String fizzbuzz() {
         System.out.println("fizzbuzz");
         return "fizzbuzz";
     }
 
     public String fizz() {
-        System.out.println("fizz");
-        return "fizz";
+        String fizz = "fizz";
+        System.out.println(fizz);
+        return fizz;
     }
 
     public String buzz() {
