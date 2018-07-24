@@ -1,16 +1,16 @@
 package javacode.exercises.fizzbuzz;
 
 public class FizzBuzz {
-    public String input(Integer inputNumber) {
+    public String input(Integer inputNum) {
         String value;
-        if(inputNumber % 15 == 0)
-            return "fizzbuzz";
-        if(inputNumber % 3 == 0)
+        if(inputNum % 15 == 0)
+            return fizzbuzz();
+        if(inputNum % 3 == 0)
             return fizz();
-        if(inputNumber % 5 == 0)
-            return "buzz";
+        if(inputNum % 5 == 0)
+            return buzz();
         else
-            return inputNumber.toString();
+            return inputNumber(inputNum);
     }
     public String fizzbuzz() {
         System.out.println("fizzbuzz");
@@ -18,8 +18,8 @@ public class FizzBuzz {
     }
 
     public String fizz() {
-        System.out.println("fizz");
         String fizz = "fizz";
+        System.out.println(fizz);
         return fizz;
     }
 
@@ -28,9 +28,9 @@ public class FizzBuzz {
         return "buzz";
     }
 
-//    public String inputNumber(Integer inputNumber) {
-//        System.out.println(inputNumber);
-//        return inputNumber.toString();
-//    }
+    public String inputNumber(Integer inputNumber) {
+        System.out.println(inputNumber);
+        return inputNumber.toString();
+    }
 
 }
