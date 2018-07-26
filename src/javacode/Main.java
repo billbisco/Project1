@@ -1,5 +1,6 @@
 package javacode;
 
+import javacode.exercises.JavaLearnings.PrintF;
 import javacode.exercises.fizzbuzz.FizzBuzz;
 
 public class Main {
@@ -8,6 +9,7 @@ public class Main {
         System.out.println("Hello, World");
         currentTimePrintOut();
         runFizzBuzz();
+        PrintF.printing();
     }
 
     public static void currentTimePrintOut() {
