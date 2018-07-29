@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24345edc-b4d3-4447-b531-001a8056a679" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MathTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-a-course-for-beginners" beforeDir="false" afterPath="$PROJECT_DIR$/java-a-course-for-beginners" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/PrintF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/PrintF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/fizzbuzz/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/fizzbuzz/FizzBuzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/PrintF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/PrintF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzz.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,12 +91,12 @@
       <file leaf-file-name="HumanTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="441">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -514,8 +504,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1298" height="738" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1298" height="738" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -529,7 +518,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3956229" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.016990291" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42799354" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="Gradle" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -882,12 +871,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="441">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
           </folding>
         </state>
       </provider>
