@@ -21,4 +21,5 @@ public class HumanTest {
     public static boolean useList(String[] arr, String targetValue) {
         return Arrays.asList(arr).contains(targetValue);
     }
+
 }
