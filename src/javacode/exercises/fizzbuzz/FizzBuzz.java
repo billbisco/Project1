@@ -33,4 +33,8 @@ public class FizzBuzz {
         return inputNumber.toString();
     }
 
-}
+    public static void main(String[] args) {
+        
+    }
+
+    }
