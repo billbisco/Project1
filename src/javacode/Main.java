@@ -1,5 +1,6 @@
 package javacode;
 
+import javacode.exercises.JavaLearnings.MathTable;
 import javacode.exercises.JavaLearnings.PrintF;
 import javacode.exercises.fizzbuzz.FizzBuzz;
 
@@ -9,7 +10,8 @@ public class Main {
         System.out.println("Hello, World");
         currentTimePrintOut();
         runFizzBuzz();
-        PrintF.printing();
+//        PrintF();
+//        MathTable.mathy();
     }
 
     public static void currentTimePrintOut() {

@@ -2,6 +2,12 @@ package javacode.exercises.JavaLearnings;
 
 public class MultiplicationTable {
 
+    public static void main(String[] args) {
+        print();
+        print(4);
+        print(64,1,44);
+    }
+
     public static void print() {
         print(5);
     }
