@@ -3,7 +3,6 @@ package javacode.exercises.HumanGenerator;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 
@@ -14,11 +13,13 @@ public class HumanTest {
 //        Assert.assertThat(Human.setGender("Male").equals("Male");
         Human human = new Human();
         human.mygender = "Male";
-        String Array[] = human.gender;
-//            Assert.assertThat(Arrays.asList(Human.gender));
+        List<String> list = Arrays.asList(human.gender);
+        Assert.assertTrue(listContainsTargetValue(human.gender,human.mygender));
+        System.out.println(listContainsTargetValue(human.gender,human.mygender));
+
     }
 
-    public static boolean useList(String[] arr, String targetValue) {
+    public static boolean listContainsTargetValue(String[] arr, String targetValue) {
         return Arrays.asList(arr).contains(targetValue);
     }
 
