@@ -14,8 +14,10 @@ public class HumanTest {
         Human human = new Human();
         human.mygender = "Male";
         List<String> list = Arrays.asList(human.gender);
-        Assert.assertTrue(listContainsTargetValue(human.gender,human.mygender));
-        System.out.println(listContainsTargetValue(human.gender,human.mygender));
+//        Assert.assertTrue(listContainsTargetValue(human.gender,human.mygender));
+//        System.out.println(listContainsTargetValue(human.gender,human.mygender));
+        Assert.assertTrue(Arrays.asList(human.gender).contains(human.mygender));
+
 
     }
 
