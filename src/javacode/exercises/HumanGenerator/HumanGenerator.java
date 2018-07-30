@@ -4,18 +4,19 @@ import java.security.SecureRandom;
 
 public class HumanGenerator {
 
-    public void generateRandomHuman() {
+    public static Human generateRandomHuman() {
         Human human = new Human();
 
         human.myGender = getSecureRandomElementFromArray(human.gender);
-        human.myGender = getSecureRandomElementFromArray(human.skinType);
-        human.myGender = getSecureRandomElementFromArray(human.hairColor);
+        human.mySkinType = getSecureRandomElementFromArray(human.skinType);
+        human.myHairColor = getSecureRandomElementFromArray(human.hairColor);
         System.out.println("My human's gender is: " + human.myGender);
         System.out.println("My human's skin type is: " + human.mySkinType);
         System.out.println("My human's hair color is: " + human.myHairColor);
+        return human;
     }
 
-    public  void main(String[] args) {
+    public static  void main(String[] args) {
         generateRandomHuman();
     }
 
