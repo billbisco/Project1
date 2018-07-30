@@ -2,7 +2,6 @@ package javacode.exercises.HumanGenerator;
 
 import org.junit.Assert;
 import org.junit.Test;
-
 import java.util.Arrays;
 import java.util.List;
 
@@ -10,19 +9,25 @@ public class HumanTest {
 
     @Test
     public void humanGenderShouldContainMale() {
-//        Assert.assertThat(Human.setGender("Male").equals("Male");
         Human human = new Human();
-        human.mygender = "Male";
+        human.myGender = "Male";
         List<String> list = Arrays.asList(human.gender);
-//        Assert.assertTrue(listContainsTargetValue(human.gender,human.mygender));
-//        System.out.println(listContainsTargetValue(human.gender,human.mygender));
-        Assert.assertTrue(Arrays.asList(human.gender).contains(human.mygender));
-
-
+        Assert.assertTrue(Arrays.asList(human.gender).contains(human.myGender));
     }
 
-    public static boolean listContainsTargetValue(String[] arr, String targetValue) {
-        return Arrays.asList(arr).contains(targetValue);
+    @Test
+    public void humanHairShouldContainBrown() {
+        Human human = new Human();
+        human.myHairColor = "Brown";
+        Assert.assertTrue(Arrays.asList(human.hairColor).contains(human.myHairColor));
     }
+
+    @Test
+    public void humanSkinShouldContainDusky() {
+        Human human = new Human();
+        human.mySkinType = "Dusky";
+        Assert.assertTrue(Arrays.asList(human.skinType).contains(human.mySkinType));
+    }
+
 
 }
