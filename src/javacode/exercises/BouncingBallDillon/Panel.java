@@ -7,7 +7,7 @@ public class Panel extends JPanel implements Runnable{
 
     Thread loopThread = new Thread(this);
     int dx = 1;
-    int dy = 1;
+    int dy = 0;
     Point ballPosition = new Point(20,20);
 
     public Panel() {
