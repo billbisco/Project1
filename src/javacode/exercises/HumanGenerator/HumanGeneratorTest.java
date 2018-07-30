@@ -2,27 +2,25 @@ package javacode.exercises.HumanGenerator;
 
 import org.junit.Assert;
 import org.junit.Test;
+import java.util.Arrays;
 
-import static org.junit.Assert.*;
 
 public class HumanGeneratorTest {
 
     @Test
-    public void humanGeneratorGenderShouldNotReturnNull() {
+    public void humanGeneratorAttributesShouldNotReturnNull() {
         HumanGenerator humanGenerator = new HumanGenerator();
         Assert.assertNotNull(humanGenerator.generateRandomHuman().myGender);
-    }
-
-    @Test
-    public void humanGeneratorSkinTypeShouldNotReturnNull() {
-        HumanGenerator humanGenerator = new HumanGenerator();
         Assert.assertNotNull(humanGenerator.generateRandomHuman().mySkinType);
+        Assert.assertNotNull(humanGenerator.generateRandomHuman().myHairColor);
     }
 
     @Test
-    public void humanGeneratorHairColorShouldNotReturnNull() {
+    public void humanGeneratorHairColorShouldNotReturnInvalidValues() {
+        Human human = new Human();
         HumanGenerator humanGenerator = new HumanGenerator();
-        Assert.assertNotNull(humanGenerator.generateRandomHuman().myHairColor);
+        Assert.assertFalse(Arrays.asList(human.gender).contains(humanGenerator.generateRandomHuman().mySkinType));
+        Assert.assertFalse(Arrays.asList(human.gender).contains(humanGenerator.generateRandomHuman().myHairColor));
     }
 
 }

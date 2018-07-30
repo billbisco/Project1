@@ -4,7 +4,6 @@
     <list default="true" id="24345edc-b4d3-4447-b531-001a8056a679" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-a-course-for-beginners" beforeDir="false" afterPath="$PROJECT_DIR$/java-a-course-for-beginners" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGeneratorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,10 +47,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="HumanGenerator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HumanGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
+            <state relative-caret-position="21">
               <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding>
                 <element signature="e#703#704#0" expanded="true" />
@@ -61,14 +60,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HumanGeneratorTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Human.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HumanGeneratorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="63">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -76,8 +81,8 @@
       <file leaf-file-name="HumanTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="229">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,8 +138,8 @@
         <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/ListTest.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTest.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/Human.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGeneratorTest.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGenerator.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGeneratorTest.java" />
       </list>
     </option>
   </component>
@@ -232,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HumanGenerator">
+  <component name="RunManager" selected="JUnit.HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnInvalidValues">
     <configuration name="HumanGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacode.exercises.HumanGenerator.HumanGenerator" />
       <module name="Project1" />
@@ -270,6 +275,52 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnGenderValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.exercises.HumanGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="javacode.exercises.HumanGenerator" />
+      <option name="MAIN_CLASS_NAME" value="javacode.exercises.HumanGenerator.HumanGeneratorTest" />
+      <option name="METHOD_NAME" value="humanGeneratorHairColorShouldNotReturnGenderValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnInvalidValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.exercises.HumanGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="javacode.exercises.HumanGenerator" />
+      <option name="MAIN_CLASS_NAME" value="javacode.exercises.HumanGenerator.HumanGeneratorTest" />
+      <option name="METHOD_NAME" value="humanGeneratorHairColorShouldNotReturnInvalidValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="HumanGeneratorTest.humanGeneratorShouldNotReturnNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project1" />
       <extension name="coverage">
@@ -283,52 +334,6 @@
       <option name="PACKAGE_NAME" value="javacode.exercises.HumanGenerator" />
       <option name="MAIN_CLASS_NAME" value="javacode.exercises.HumanGenerator.HumanGeneratorTest" />
       <option name="METHOD_NAME" value="humanGeneratorShouldNotReturnNull" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="HumanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacode.exercises.HumanGenerator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="javacode.exercises.HumanGenerator" />
-      <option name="MAIN_CLASS_NAME" value="javacode.exercises.HumanGenerator.HumanTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="HumanTest.humanGenderShouldContainMale" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacode.exercises.HumanGenerator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="javacode.exercises.HumanGenerator" />
-      <option name="MAIN_CLASS_NAME" value="javacode.exercises.HumanGenerator.HumanTest" />
-      <option name="METHOD_NAME" value="humanGenderShouldContainMale" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -378,19 +383,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.HumanTest.humanGenderShouldContainMale" />
-      <item itemvalue="JUnit.HumanTest" />
       <item itemvalue="Application.HumanGenerator" />
       <item itemvalue="JUnit.HumanGeneratorTest.humanGeneratorShouldNotReturnNull" />
       <item itemvalue="JUnit.HumanGeneratorTest" />
+      <item itemvalue="JUnit.HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnGenderValues" />
+      <item itemvalue="JUnit.HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnInvalidValues" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnInvalidValues" />
+        <item itemvalue="JUnit.HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnGenderValues" />
         <item itemvalue="Application.HumanGenerator" />
         <item itemvalue="JUnit.HumanGeneratorTest" />
         <item itemvalue="JUnit.HumanGeneratorTest.humanGeneratorShouldNotReturnNull" />
-        <item itemvalue="JUnit.HumanTest" />
-        <item itemvalue="JUnit.HumanTest.humanGenderShouldContainMale" />
       </list>
     </recent_temporary>
   </component>
@@ -408,12 +413,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzTest - 2018.07.23 at 21h 31m 00s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest - 2018.07.23 at 21h 34m 25s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest - 2018.07.23 at 21h 48m 19s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
@@ -438,9 +437,16 @@
     <history-entry file="HumanGeneratorTest - 2018.07.29 at 21h 41m 24s.xml">
       <configuration name="HumanGeneratorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="HumanGeneratorTest_humanGeneratorHairColorShouldNotReturnGenderValues - 2018.07.29 at 22h 15m 17s.xml">
+      <configuration name="HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnGenderValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HumanGeneratorTest_humanGeneratorHairColorShouldNotReturnInvalidValues - 2018.07.29 at 22h 17m 26s.xml">
+      <configuration name="HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnInvalidValues" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1298" height="738" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -451,11 +457,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008091" side_tool="true" weight="0.42131978" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.20473774" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919093" visible="true" weight="0.4788494" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919093" visible="true" weight="0.33840948" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3956229" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29530746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.04288026" />
       <window_info anchor="bottom" id="Build" order="8" weight="0.18274112" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3282572" />
       <window_info id="Learn" order="2" />
@@ -767,13 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MathTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -819,10 +818,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="229">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -831,22 +848,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="63">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
