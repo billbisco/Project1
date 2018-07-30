@@ -1,12 +1,13 @@
-package javacode.exercises.JavaLearnings;
+package javacode.exercises.BouncingBallDillon;
 
 import javax.swing.*;
 
 public class Frame extends JFrame {
 
-    Boolean booley = false;
+    boolean booley = false;
 
     public Frame() {
+        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setSize(1920,1080);
         this.add(new Panel());
         this.setVisible(true);
