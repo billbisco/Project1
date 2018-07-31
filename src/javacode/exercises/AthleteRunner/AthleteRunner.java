@@ -11,12 +11,23 @@ public class AthleteRunner {
     }
 
     AthleteRunner() {
-
-        this(5,3);       // why does this work?
-//        this(4)
-        this.speed = 5;
-        this.shoeSize = 3;
+        this(5,3);
     }
+
+    public void helpfulRunner() {
+        this.shoeSize = 0;
+        this.speed = 4;
+    }
+
+    public void helpfulRunner(int speed, int shoeSize) {
+        this.speed = speed;
+        this.shoeSize = shoeSize;
+    }
+
+    public void helpfulRunner2(int speed, int shoeSize) {
+        this(4,3); // how can I get this to work?
+    }
+
 
     public int getSpeed() {
         return speed;
@@ -37,7 +48,10 @@ public class AthleteRunner {
 
     public static void main(String[] args) {
         AthleteRunner athleteRunner = new AthleteRunner();
+        System.out.println("Shoe Size: " + athleteRunner.shoeSize + " Speed: " + athleteRunner.speed);
         athleteRunner.setSpeed(-10);
+        AthleteRunner athleteRunner2 = new AthleteRunner(8,9);
+        System.out.println("Shoe Size: " + athleteRunner2.shoeSize + " Speed: " + athleteRunner2.speed);
         athleteRunner.setSpeed(-9);
         athleteRunner.setSpeed(-4);
         athleteRunner.setSpeed(0);
