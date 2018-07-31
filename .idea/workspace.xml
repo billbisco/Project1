@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24345edc-b4d3-4447-b531-001a8056a679" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javacode/kotlinCode/BouncingBall/BouncingBall.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/NumberFunctions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/Project1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/Project1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/BookRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/BookRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/Frame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/Frame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/MotorBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/MotorBike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/MotorBikeRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/MotorBikeRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/Panel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/Panel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/fizzbuzz/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/fizzbuzz/FizzBuzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/BookRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/BookRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/Frame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MotorBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MotorBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MotorBikeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MotorBikeRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/Panel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/PrintF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/PrintF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-a-course-for-beginners" beforeDir="false" afterPath="$PROJECT_DIR$/java-a-course-for-beginners" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/AthleteRunner/AthleteRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/AthleteRunner/AthleteRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/BouncingBallDillon/Panel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/BouncingBallDillon/Panel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/AthleteRunner/AthleteRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/AthleteRunner/AthleteRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Panel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,30 +54,8 @@
       <file leaf-file-name="Frame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Frame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="36" selection-start-line="16" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AthleteRunner.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/AthleteRunner/AthleteRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-              <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Human.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="109">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -96,7 +63,7 @@
       <file leaf-file-name="BouncingBall.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/BouncingBall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="42">
               <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
@@ -105,8 +72,8 @@
       <file leaf-file-name="Panel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Panel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <state relative-caret-position="504">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,11 +81,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Point.class" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/awt/Point.class">
+      <file leaf-file-name="AthleteRunner.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/AthleteRunner/AthleteRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state>
+              <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+              <folding>
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberFunctions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/NumberFunctions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -179,8 +167,10 @@
         <option value="$PROJECT_DIR$/src/kotlinCode/BouncingBall/BouncingBall.java" />
         <option value="$PROJECT_DIR$/src/kotlinCode/BouncingBall/BouncingBall.kt" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/BouncingBall.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Panel.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Frame.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Panel.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/NumberFunctions.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/AthleteRunner/setAthleteRunner.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/AthleteRunner/AthleteRunner.java" />
       </list>
     </option>
@@ -195,18 +185,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project1" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
@@ -240,14 +224,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javacode" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="BouncingBallDillon" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaLearnings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,6 +302,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacode.exercises.BouncingBallDillon.Frame" />
+      <module name="Project1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.exercises.BouncingBallDillon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="HumanGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacode.exercises.HumanGenerator.HumanGenerator" />
       <module name="Project1" />
@@ -330,29 +326,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnInvalidValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacode.exercises.HumanGenerator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="javacode.exercises.HumanGenerator" />
-      <option name="MAIN_CLASS_NAME" value="javacode.exercises.HumanGenerator.HumanGeneratorTest" />
-      <option name="METHOD_NAME" value="humanGeneratorHairColorShouldNotReturnInvalidValues" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -394,18 +367,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.HumanGenerator" />
-      <item itemvalue="JUnit.HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnInvalidValues" />
       <item itemvalue="Application.BouncingBall" />
       <item itemvalue="Application.BouncingBall (1)" />
       <item itemvalue="Application.AthleteRunner" />
+      <item itemvalue="Application.Frame" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AthleteRunner" />
         <item itemvalue="Application.BouncingBall (1)" />
+        <item itemvalue="Application.Frame" />
         <item itemvalue="Application.BouncingBall" />
         <item itemvalue="Application.HumanGenerator" />
-        <item itemvalue="JUnit.HumanGeneratorTest.humanGeneratorHairColorShouldNotReturnInvalidValues" />
       </list>
     </recent_temporary>
   </component>
@@ -455,55 +428,59 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-9" y="-9" width="1298" height="738" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.33118972" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49919093" weight="0.3248731" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.104501605" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.45622894" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15273312" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008091" side_tool="true" weight="0.42131978" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.20473774" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919093" visible="true" weight="0.010152284" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3956229" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26860118" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
-      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22815534" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.18274112" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282572" />
+      <window_info id="Learn" order="2" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.32928804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Gradle" order="4" weight="0.32928804" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3956229" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.45622894" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24534687" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3282572" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="8" weight="0.18274112" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282572" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32491583" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29530746" />
@@ -512,14 +489,14 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.9791667" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329806" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25085324" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329806" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9791667" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -569,12 +546,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gradlew.bat" />
-    <entry file="file://$PROJECT_DIR$/settings.gradle" />
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -658,9 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -719,20 +691,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBall/BouncingBall.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBall/BouncingBall.kt" />
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MotorBike.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4">
@@ -747,102 +706,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/javax/swing/JComponent.class">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/javax/swing/JComponent.class" />
+    <entry file="file://$PROJECT_DIR$/src/kotlinCode/BouncingBall/BouncingBall.kt" />
+    <entry file="file://$PROJECT_DIR$/src/kotlinCode/BouncingBall/Frame.kt" />
+    <entry file="file://$PROJECT_DIR$/src/kotlinCode/BouncingBall/Panel.kt" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/awt/Point.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3111">
-          <caret line="285" column="19" selection-start-line="285" selection-start-column="19" selection-end-line="285" selection-end-column="19" />
+        <state relative-caret-position="195">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="21">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding>
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kotlinCode/BouncingBall/BouncingBall.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kotlinCode/BouncingBall/Frame.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="e#33#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kotlinCode/BouncingBall/Panel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="e#33#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/awt/Point.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Panel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/BouncingBall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="168">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Frame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="36" selection-start-line="16" selection-end-line="17" />
+        <state relative-caret-position="109">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/BouncingBall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Panel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/NumberFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/AthleteRunner/AthleteRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state>
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
           <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
           </folding>
         </state>
       </provider>
