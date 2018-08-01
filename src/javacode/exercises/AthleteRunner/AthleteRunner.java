@@ -20,13 +20,17 @@ public class AthleteRunner {
     }
 
     public void helpfulRunner(int speed, int shoeSize) {
-        this.speed = speed;
-        this.shoeSize = shoeSize;
+        this.speed = 3;
+        this.shoeSize = 4;
     }
 
-    public void helpfulRunner2(int speed, int shoeSize) {
-        this(4,3); // how can I get this to work?
-    }
+//    public void helpfulRunner2(int speed, int shoeSize) {
+////        AthleteRunner helpfulRunner3 = new AthleteRunner();
+////        this.helpfulRunner2(4, 3);
+//
+//
+////        this(4,3); // how can I get this to work?
+//    }
 
 
     public int getSpeed() {
@@ -60,6 +64,9 @@ public class AthleteRunner {
         athleteRunner.setSpeed(7);
         athleteRunner.setSpeed(10);
         athleteRunner.setSpeed(15);
+        athleteRunner.helpfulRunner();
+        System.out.println("Shoe Size: " + athleteRunner.shoeSize + " Speed: " + athleteRunner.speed);
+
     }
 
 }
