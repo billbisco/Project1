@@ -4,29 +4,34 @@ import java.util.Scanner;
 
 public class MenuRunner {
     public static void main(String[] args) {
+    MenuRunner menuRunner = new MenuRunner();
+    menuRunner.basicQuery();
+
+
         // Type obj = new Type(argument);
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter Number1: ");
-        int number1 = scanner.nextInt();
-
-        System.out.print("Enter Number2: ");
-        int number2 = scanner.nextInt();
-
-        System.out.println("Choices Available are ");
-        System.out.println("1 - Add");
-        System.out.println("2 - Subtract");
-        System.out.println("3 - Divide");
-        System.out.println("4 - Multiply");
-
-        System.out.print("Enter Choice: ");
-        int choice = scanner.nextInt();
-
-        System.out.println("Your Choices are");
-        System.out.println("Number1 " + number1);
-        System.out.println("Number2 " + number2);
-        System.out.println("Choice " + choice);
-
-        performOperationUsingSwitch(number1, number2, choice);
+//
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.print("Enter Number1: ");
+//        int number1 = scanner.nextInt();
+//
+//        System.out.print("Enter Number2: ");
+//        int number2 = scanner.nextInt();
+//
+//        System.out.println("Choices Available are ");
+//        System.out.println("1 - Add");
+//        System.out.println("2 - Subtract");
+//        System.out.println("3 - Divide");
+//        System.out.println("4 - Multiply");
+//
+//        System.out.print("Enter Choice: ");
+//        int choice = scanner.nextInt();
+//
+//        System.out.println("Your Choices are");
+//        System.out.println("Number1 " + number1);
+//        System.out.println("Number2 " + number2);
+//        System.out.println("Choice " + choice);
+//
+//        performOperationUsingSwitch(number1, number2, choice);
     }
 
     private static void performOperationUsingNestedIfElse(int number1, int number2, int choice) {
@@ -61,6 +66,21 @@ public class MenuRunner {
                 System.out.println("Invalid Operation");
                 break;
         }
+
+    }
+
+    public void basicQuery() {
+
+        Scanner scanner = new Scanner(System.in);
+        Scanner scanner2 = new Scanner(System.in);
+        System.out.print("Enter String: ");
+        String entry = scanner.next();
+        System.out.println("You typed: " + entry);
+        String entry2 = scanner.nextLine();
+        String entry3 = scanner2.nextLine();
+        System.out.println("You typed: " + entry2);
+        System.out.println("You typed: " + entry3);
+
 
     }
 
