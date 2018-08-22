@@ -2,7 +2,25 @@ package javacode.exercises.Plane;
 
 public class Plane {
 
+    public static int planeCounter;
     private int seats;
+
+    public Plane(){
+        planeCounter++;
+    }
+
+    public static void genericPlaneMaker(int x) {
+
+        Plane[] planes = new Plane[x];
+        for (x = 0; x < planes.length; x++){
+            planes[x] = new Plane();
+      }
+
+    }
+
+    public int getPlaneCounter(){
+        return planeCounter;
+    }
 
     public void setSeats(int input) {
         this.seats = input;
@@ -22,5 +40,7 @@ public class Plane {
 
         System.out.println(PlaneSeats);
     }
+
+
 
 }
