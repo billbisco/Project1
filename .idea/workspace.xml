@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/javacode/exercises/Plane/Plane.java" line="16" mnemonic="1" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="24345edc-b4d3-4447-b531-001a8056a679" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/CardArray/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/Plane/PlaneRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/Plane/PlaneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/Chess/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/Chess/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/Chess/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/Chess/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/FruitStream/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/FruitStream/FruitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/PictureAndChatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/ListStuff/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/exercises/ListStuff/ListDemoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-a-course-for-beginners" beforeDir="false" afterPath="$PROJECT_DIR$/java-a-course-for-beginners" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/Plane/Plane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/Plane/Plane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/Plane/PlaneSeatsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/ArrayStuff/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/ArrayStuff/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/AthleteRunner/AthleteRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/AthleteRunner/AthleteRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/AddTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/DoWhileCube.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/DoWhileCube.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/Planet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/StringArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/StringArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/Plane/PlaneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/javacode/exercises/Plane/PlaneTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javacode/exercises/Plane/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/Plane/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/Plane/PlaneSeatsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/exercises/Plane/PlaneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/exercises/Plane/PlaneTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,44 +67,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="DoWhileCube.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/DoWhileCube.java">
+      <file leaf-file-name="UI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Chess/UI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="606">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WhatisToday.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/WhatisToday.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlaneRunner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Plane/PlaneRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MyNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1302">
-              <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyNumberRunner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MyNumberRunner.java">
+      <file leaf-file-name="Cell.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Chess/Cell.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
@@ -101,38 +88,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/ArrayStuff/Student.java">
+      <file leaf-file-name="Frame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Frame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="210">
+              <caret line="10" column="25" selection-start-line="10" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentRunner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/ArrayStuff/StudentRunner.java">
+      <file leaf-file-name="JFrame.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+            <state relative-caret-position="111">
+              <caret line="654" column="21" selection-start-line="654" selection-start-column="21" selection-end-line="654" selection-end-column="21" />
+              <folding>
+                <element signature="e#23224#23225#0" expanded="true" />
+                <element signature="e#23277#23278#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Plane.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Plane/Plane.java">
+      <file leaf-file-name="Window.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Window.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="-133">
+              <caret line="817" column="16" selection-start-line="817" selection-start-column="16" selection-end-line="817" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlaneTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Plane/PlaneTest.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Chess/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="252">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Toolkit.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Toolkit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="276" column="30" selection-start-line="276" selection-start-column="30" selection-end-line="276" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dimension.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Dimension.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Component.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Component.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="2618" column="16" selection-start-line="2618" selection-start-column="16" selection-end-line="2618" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSplitPane.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/javax/swing/JSplitPane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -160,17 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/javacode/exercises/onehundreddoors/OneHundredDoorsTest.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/PrintF/PrintF.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/PlanetClass.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/Planet.java" />
-        <option value="$PROJECT_DIR$/java-a-course-for-beginners/04-IntroductionToEclipse-FirstJavaProject/src/com/in28minutes/firstjavaproject/MultiplicationTable.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/AddTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MathTable.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MultiplicationTable.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/PrintF.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/src/javacode/Main.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTestTest.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/StringArrays.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/ListTest.java" />
@@ -209,13 +228,25 @@
         <option value="$PROJECT_DIR$/src/javacode/exercises/Plane/PlaneSeatsTest.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/CardArray.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/CardArray/Card.java" />
-        <option value="$PROJECT_DIR$/src/javacode/exercises/Plane/Plane.java" />
         <option value="$PROJECT_DIR$/src/javacode/exercises/Plane/PlaneTest.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/ListStuff/ListDemo.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/ListStuff/ListDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/Plane/Plane.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/FruitStream/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/FruitStream/FruitTest.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/Generics/GenericsRunner.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/Chess/Board.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/Chess/Main.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/ListDemo.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/PictureAndChatDemo.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/Chess/UI.java" />
+        <option value="$PROJECT_DIR$/src/javacode/exercises/Chess/Cell.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="676" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="143" />
+    <option name="width" value="1137" />
     <option name="height" value="686" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -225,7 +256,28 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Project1" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Project1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Project1" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Project1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Project1" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="javacode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -258,7 +310,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javacode" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="CardArray" type="462c0819:PsiDirectoryNode" />
+              <item name="BouncingBallDillon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
@@ -266,7 +318,53 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javacode" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Plane" type="462c0819:PsiDirectoryNode" />
+              <item name="Chess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javacode" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaLearnings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="applet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="awt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,19 +382,21 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="javacode.exercises.FruitStream" />
+      <recent name="javacode.exercises.ListStuff" />
       <recent name="javacode.exercises.Plane" />
       <recent name="javacode.exercises.JavaLearnings" />
       <recent name="javacode.exercises.HumanGenerator" />
-      <recent name="javacode.exercises.onehundreddoors" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Loft Admin\IdeaProjects\Project1\src\javacode\exercises\Generics" />
       <recent name="C:\Users\Loft Admin\IdeaProjects\Project1\src\javacode\exercises\ArrayStuff" />
       <recent name="C:\Users\Loft Admin\IdeaProjects\Project1\src\javacode\exercises\JavaLearnings" />
     </key>
@@ -313,112 +413,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PlaneTest.one_hundreed_instances_should_return_one_hundred_planeCounter">
-    <configuration name="Plane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacode.exercises.Plane.Plane" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BouncingBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacode.exercises.BouncingBallDillon.BouncingBall" />
       <module name="Project1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacode.exercises.Plane.*" />
+          <option name="PATTERN" value="javacode.exercises.BouncingBallDillon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacode.exercises.BouncingBallDillon.Frame" />
+      <module name="Project1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.exercises.BouncingBallDillon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacode.exercises.JavaLearnings.ListDemo" />
+      <module name="Project1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.exercises.JavaLearnings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacode.exercises.Chess.Main" />
+      <module name="Project1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.exercises.Chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PictureAndChatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacode.exercises.JavaLearnings.PictureAndChatDemo" />
+      <module name="Project1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.exercises.JavaLearnings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="PlaneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacode.exercises.Plane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="javacode.exercises.Plane" />
-      <option name="MAIN_CLASS_NAME" value="javacode.exercises.Plane.PlaneTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="PlaneTest.one_hundreed_instances_should_return_one_hundred_planeCounter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacode.exercises.Plane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="javacode.exercises.Plane" />
-      <option name="MAIN_CLASS_NAME" value="javacode.exercises.Plane.PlaneTest" />
-      <option name="METHOD_NAME" value="one_hundreed_instances_should_return_one_hundred_planeCounter" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="PlaneTest.six_instances_of_plane_should_return_planeCounter_of_six" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacode.exercises.Plane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="javacode.exercises.Plane" />
-      <option name="MAIN_CLASS_NAME" value="javacode.exercises.Plane.PlaneTest" />
-      <option name="METHOD_NAME" value="six_instances_of_plane_should_return_planeCounter_of_six" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="PlaneTest.thirteen_instances_return_thirteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacode.exercises.Plane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="javacode.exercises.Plane" />
-      <option name="MAIN_CLASS_NAME" value="javacode.exercises.Plane.PlaneTest" />
-      <option name="METHOD_NAME" value="thirteen_instances_return_thirteen" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -459,19 +511,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.PlaneTest.six_instances_of_plane_should_return_planeCounter_of_six" />
-      <item itemvalue="JUnit.PlaneTest" />
-      <item itemvalue="JUnit.PlaneTest.one_hundreed_instances_should_return_one_hundred_planeCounter" />
-      <item itemvalue="JUnit.PlaneTest.thirteen_instances_return_thirteen" />
-      <item itemvalue="Application.Plane" />
+      <item itemvalue="Application.BouncingBall" />
+      <item itemvalue="Application.Frame" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ListDemo" />
+      <item itemvalue="Application.PictureAndChatDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PlaneTest.one_hundreed_instances_should_return_one_hundred_planeCounter" />
-        <item itemvalue="Application.Plane" />
-        <item itemvalue="JUnit.PlaneTest.thirteen_instances_return_thirteen" />
-        <item itemvalue="JUnit.PlaneTest.six_instances_of_plane_should_return_planeCounter_of_six" />
-        <item itemvalue="JUnit.PlaneTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PictureAndChatDemo" />
+        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.Frame" />
+        <item itemvalue="Application.BouncingBall" />
       </list>
     </recent_temporary>
   </component>
@@ -489,18 +541,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PlaneTest_six_instances_of_plane_should_return_planeCounter_of_six - 2018.08.20 at 20h 35m 12s.xml">
-      <configuration name="PlaneTest.six_instances_of_plane_should_return_planeCounter_of_six" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PlaneTest - 2018.08.20 at 20h 49m 26s.xml">
-      <configuration name="PlaneTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PlaneTest_six_instances_of_plane_should_return_planeCounter_of_six - 2018.08.20 at 20h 49m 40s.xml">
-      <configuration name="PlaneTest.six_instances_of_plane_should_return_planeCounter_of_six" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PlaneTest_six_instances_of_plane_should_return_planeCounter_of_six - 2018.08.20 at 20h 50m 43s.xml">
-      <configuration name="PlaneTest.six_instances_of_plane_should_return_planeCounter_of_six" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PlaneTest_thirteen_instances_return_thirteen - 2018.08.21 at 22h 14m 55s.xml">
       <configuration name="PlaneTest.thirteen_instances_return_thirteen" configurationId="JUnit" />
     </history-entry>
@@ -519,40 +559,53 @@
     <history-entry file="PlaneTest_one_hundreed_instances_should_return_one_hundred_planeCounter - 2018.08.21 at 22h 25m 22s.xml">
       <configuration name="PlaneTest.one_hundreed_instances_should_return_one_hundred_planeCounter" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ListDemoTest_create_a_basic_list_and_return_stuff - 2018.08.22 at 19h 57m 58s.xml">
+      <configuration name="ListDemoTest.create_a_basic_list_and_return_stuff" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListDemoTest_create_list_and_try_to_stream - 2018.08.22 at 20h 40m 49s.xml">
+      <configuration name="ListDemoTest.create_list_and_try_to_stream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListDemoTest_create_list_and_try_to_stream - 2018.08.22 at 20h 42m 52s.xml">
+      <configuration name="ListDemoTest.create_list_and_try_to_stream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FruitTest_fruit_map_stream_test - 2018.08.22 at 21h 24m 16s.xml">
+      <configuration name="FruitTest.fruit_map_stream_test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1298" height="704" extended-state="6" />
+    <frame x="-9" y="-9" width="1298" height="704" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3339416" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32155478" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3180212" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.45622894" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44876325" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3956229" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3632686" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27346277" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27915195" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="4" weight="0.32928804" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282572" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="8" weight="0.18274112" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3282572" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3286219" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -560,12 +613,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.9791667" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25085324" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329806" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -575,7 +628,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.8055556" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329806" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -615,111 +668,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="20" />
+      <option name="time" value="25" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTestTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/javacode/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/fizzbuzz/FizzBuzzInstructions.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MultiplicationTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Project1/javacode/exercises/JavaLearnings/PrintF.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/CheckList.java" />
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/ListTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/BookRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/StringArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBall/BouncingBall.kt" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/javax/swing/JComponent.class" />
-    <entry file="file://$PROJECT_DIR$/src/kotlinCode/BouncingBall/BouncingBall.kt" />
-    <entry file="file://$PROJECT_DIR$/src/kotlinCode/BouncingBall/Frame.kt" />
-    <entry file="file://$PROJECT_DIR$/src/kotlinCode/BouncingBall/Panel.kt" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/awt/Point.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Runnable.java" />
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/HumanGenerator/HumanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/NumberFunctions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/BouncingBall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Frame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Panel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="37" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MathTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -840,24 +792,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MyNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/CardArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/CardArray/Card.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1302">
-          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MyNumberRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/ArrayStuff/StudentRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/DoWhileCube.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="284">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -868,28 +814,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/ArrayStuff/StudentRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MyNumberRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        <state relative-caret-position="104">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/CardArray.java">
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/MyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/CardArray/Card.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="473">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -900,17 +835,220 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Plane/Plane.java">
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/DoWhileCube.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        <state relative-caret-position="347">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Plane/PlaneTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="305">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/FruitStream/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/ListStuff/ListDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" selection-start-line="15" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Generics/GenericsRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/FruitStream/FruitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/ListStuff/ListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Plane/Plane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="4" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Chess/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/javax/swing/JPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/BouncingBall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/ListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="238" column="21" selection-start-line="238" selection-start-column="21" selection-end-line="238" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5052#5053#0" expanded="true" />
+            <element signature="e#5096#5097#0" expanded="true" />
+            <element signature="e#6535#6536#0" expanded="true" />
+            <element signature="e#6590#6591#0" expanded="true" />
+            <element signature="e#6683#6684#0" expanded="true" />
+            <element signature="e#6721#6722#0" expanded="true" />
+            <element signature="e#6814#6815#0" expanded="true" />
+            <element signature="e#6861#6862#0" expanded="true" />
+            <element signature="e#8843#8844#0" expanded="true" />
+            <element signature="e#8893#8894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Panel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Dimension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Toolkit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="276" column="30" selection-start-line="276" selection-start-column="30" selection-end-line="276" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/javax/swing/JSplitPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Chess/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="817" column="16" selection-start-line="817" selection-start-column="16" selection-end-line="817" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="2618" column="16" selection-start-line="2618" selection-start-column="16" selection-end-line="2618" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/JavaLearnings/PictureAndChatDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="64" column="20" lean-forward="true" selection-start-line="64" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="654" column="21" selection-start-line="654" selection-start-column="21" selection-end-line="654" selection-end-column="21" />
+          <folding>
+            <element signature="e#23224#23225#0" expanded="true" />
+            <element signature="e#23277#23278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/BouncingBallDillon/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="25" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Chess/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacode/exercises/Chess/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

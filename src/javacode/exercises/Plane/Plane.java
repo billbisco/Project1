@@ -14,7 +14,7 @@ public class Plane {
         Plane[] planes = new Plane[x];
         for (x = 0; x < planes.length; x++){
             planes[x] = new Plane();
-      }
+   }
 
     }
 
