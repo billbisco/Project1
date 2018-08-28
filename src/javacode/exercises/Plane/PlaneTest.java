@@ -47,7 +47,6 @@ public class PlaneTest {
         @Test
         public void create_planes_inside_of_braces() {
 
-            Plane[] planes = {Plane.genericPlaneMaker(3), new Plane()};
 
         }
 
