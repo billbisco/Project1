@@ -5,7 +5,6 @@ import java.awt.*;
 public class UI extends JFrame {
     private final JSplitPane splitPane;
     private final JPanel topPanel;
-    private final JPanel board;
 
     Dimension screenSize;
 
@@ -19,7 +18,13 @@ public class UI extends JFrame {
 
         splitPane = new JSplitPane();
         topPanel = new JPanel();
-        board = new JPanel(new GridLayout(8,8));
+//        board = new JPanel(Board);
+        Board board = new Board();
+//        board = new JPanel();
+        board.repaint();
+
+//        board = new JPanel(new GridLayout(8,8));
+//        board = new JPanel(new GridLayout(8,8));
 
 //        this.setPreferredSize(new Dimension(400, 400));     // let's open the window with a default size of 400x400 pixels
 //        getContentPane().setLayout(new GridLayout());
@@ -36,11 +41,4 @@ public class UI extends JFrame {
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
         this.setSize(screenSize.width, screenSize.height);
     }
-
-    private void paintRectangle(Graphics g){
-        g.fillRect(100,100,400,400);
-//        g.clearRect(100,50,50,50));
-
-    }
-
 }
